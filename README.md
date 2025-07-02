@@ -103,11 +103,11 @@ Confidence Level      : 92%
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ Authors
 
-- **Your Name**  
-- Email: [yourname@example.com](mailto:yourname@example.com)
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- **Lalatendu Biswal** AND **Bharat Mittal**  
+- Email: [lalatendu118@gmail.com.com]
+- GitHub: [github.com/Lalatendu2004Biswal]
 
 ---
 
