@@ -22,12 +22,12 @@ The **Speech Tone Analyzer** is a Python-based tool that analyzes recorded or up
 ```
 speech_tone_analyzer/
 ├── app.py                  # Main script to run the analyzer
-├── requirements.txt        # Required Python packages
 ├── utils/
 │   └── mic_input.py
 │   └── audio_utils.py        # Microphone input handler
-├── output/
+├── feedback_output/
 │   └── analysis_report.txt # Result log file
+├── samples/ 
 └── README.md               # Project overview and documentation
 ```
 
