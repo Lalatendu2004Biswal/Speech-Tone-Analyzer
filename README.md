@@ -106,8 +106,8 @@ Confidence Level      : 92%
 ## 🙋‍♂️ Authors
 
 - **Lalatendu Biswal** AND **Bharat Mittal**  
-- Email: [lalatendu118@gmail.com.com]
-- GitHub: [github.com/Lalatendu2004Biswal]
+- Email: [lalatendu118@gmail.com.com] [04mittalb@gmail.com]
+- GitHub: [github.com/Lalatendu2004Biswal] [github.com/bharat0020]
 
 ---
 
